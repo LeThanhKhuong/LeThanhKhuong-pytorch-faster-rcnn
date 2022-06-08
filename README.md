@@ -21,8 +21,7 @@
 Pytorch based implementation of faster rcnn framework.For details about faster R-CNN please refer to the paper [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497) by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun
 
 
-This detection framework has the following features:  
-* It can be run as pure python code, and also pure based on pytorch framework, no need to build
+Follow this repo You will be able to:
 * It is easily trained by only running a train.py script, just set the data root dir
 * It has many backbone networks. like vgg, resnet-fpn, mobilenet, high resolution net(HRNet)
 * It can be a really detection framework. You only need to change super parameters in config file and get different models to compare different model
@@ -35,7 +34,7 @@ pip install -r requirements.txt
   ```
 ### 2.2 Code-Preparing
  ```Shell
-  git clone https://github.com/AlphaJia/pytorch-faster-rcnn.git
+  git clone https://github.com/LeThanhKhuong/LeThanhKhuong-pytorch-faster-rcnn
   ```
 ##  3. Data Preparation
 ### COCO  
