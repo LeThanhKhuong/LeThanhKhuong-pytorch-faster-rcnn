@@ -29,14 +29,7 @@ This detection framework has the following features:
 * It's memory-efficient (about 3GB for vgg16)
 ##  2. Installation
 ### 2.1 Prerequisites
-* Python 2.7 or 3.5  
-* Pytorch 1.5.1  
-* torchvision 0.6.1  
-* numpy 1.15.4
-* Pillow 6.1.0
-* pycocotools 2.0
-* matplotlib 3.0.2
-* tensorboardX 2.0  
+  import package
 ```Shell
 pip install -r requirements.txt
   ```
